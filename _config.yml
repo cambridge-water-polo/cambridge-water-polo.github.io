@@ -1,0 +1,25 @@
+# Site settings
+title: Cambridge Water Polo 
+description: Cambridge Water Polo Club
+author: Tyler Lee
+baseurl: ""
+url: ""
+
+# Social
+github: tlee753 
+
+permalink: /:title
+include: ['_pages']
+
+# Google Analytics
+analytics_id: ""
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+
+exclude:
+  - README.md
+  - LICENSE

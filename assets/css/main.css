@@ -1,0 +1,72 @@
+html {
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0; }
+
+body {
+  background-color: #0B305F;
+  font-family: sans-serif, sans-serif;
+  margin: 0;
+  padding: 0; }
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0; }
+
+h1 {
+  font-size: 48px;
+  font-family: arial;
+  color: #F7F9FA; }
+
+h2, h3, h4, h5, h6 {
+  font-family: verdana; }
+
+p {
+  color: #F7F9FA;
+  margin: 0; }
+
+a {
+  text-decoration: none;
+  color: #F7F9FA; }
+
+ul, li {
+  margin: 0; }
+
+img {
+  margin: 0 auto;
+  display: block;
+  max-width: 100%; }
+
+table {
+  text-align: center;
+  border: 3px solid #F7F9FA; }
+  table th {
+    background-color: #F7F9FA;
+    color: #F7F9FA;
+    padding: 10px; }
+  table td {
+    background-color: #668AC0;
+    color: #F7F9FA;
+    padding: 10px; }
+
+footer {
+  background-color: #F7F9FA;
+  width: 100%;
+  border-top: 3px solid #668AC0; }
+  footer #copyright {
+    color: #668AC0;
+    text-align: center;
+    padding: 10px; }
+
+#navbar {
+  height: 50px;
+  background: #668AC0;
+  width: 100%;
+  border-bottom: 3px solid #F7F9FA; }
+  #navbar #navbar-title {
+    font-family: sans-serif;
+    text-align: center;
+    color: #F7F9FA; }
+
+/*# sourceMappingURL=main.css.map */

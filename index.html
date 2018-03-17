@@ -1,10 +1,13 @@
-<html>
-<head>
-    <title>Cambridge Water Polo</title>
-</head>
+---
+layout: default
+---
 
-<body>
-    <h1>Welcome to Cambridge Water Polo</h1>
-    <p>Get ready for some action packed highlights... :)</p>    
-</body>
-</html>
+<h1>{{ site.title }}</h1>
+<p>{{ site.description }}</p>
+
+{% for post in site.posts %}
+    <a href="{{ post.url }}">
+        <h2>{{ post.title }}</h2>
+    </a>
+{% endfor %}
+
