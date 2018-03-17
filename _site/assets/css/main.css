@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito");
 html {
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
@@ -7,7 +8,7 @@ html {
 
 body {
   background-color: #0B305F;
-  font-family: sans-serif, sans-serif;
+  font-family: "Nunito", sans-serif, sans-serif;
   margin: 0;
   padding: 0; }
 
@@ -16,11 +17,11 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 48px;
-  font-family: arial;
+  font-family: "Nunito", sans-serif;
   color: #F7F9FA; }
 
 h2, h3, h4, h5, h6 {
-  font-family: verdana; }
+  font-family: "Nunito", sans-serif; }
 
 p {
   color: #F7F9FA;
@@ -28,7 +29,7 @@ p {
 
 a {
   text-decoration: none;
-  color: #F7F9FA; }
+  color: #668AC0; }
 
 ul, li {
   margin: 0; }
@@ -60,12 +61,11 @@ footer {
     padding: 10px; }
 
 #navbar {
-  height: 50px;
   background: #668AC0;
   width: 100%;
   border-bottom: 3px solid #F7F9FA; }
   #navbar #navbar-title {
-    font-family: sans-serif;
+    font-family: "Nunito", sans-serif;
     text-align: center;
     color: #F7F9FA; }
 
