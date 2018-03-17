@@ -29,7 +29,7 @@ p {
 
 a {
   text-decoration: none;
-  color: #BEDC94; }
+  color: #668AC0; }
 
 ul, li {
   margin: 0; }
@@ -53,11 +53,6 @@ table {
 
 footer {
   background-color: #F7F9FA;
-  width: 100%;
   border-top: 3px solid #668AC0; }
-  footer #copyright {
-    color: #668AC0;
-    text-align: center;
-    padding: 10px; }
 
 /*# sourceMappingURL=main.css.map */
