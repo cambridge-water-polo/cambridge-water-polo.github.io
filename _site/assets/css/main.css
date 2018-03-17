@@ -18,7 +18,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 48px;
   font-family: "Nunito";
-  color: #668AC0; }
+  color: #F7F9FA; }
 
 h2, h3, h4, h5, h6 {
   font-family: "Nunito"; }
@@ -52,7 +52,8 @@ table {
     padding: 10px; }
 
 footer {
-  background-color: #F7F9FA;
   border-top: 3px solid #668AC0; }
+  footer p {
+    color: #668AC0; }
 
 /*# sourceMappingURL=main.css.map */
