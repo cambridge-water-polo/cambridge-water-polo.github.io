@@ -21,7 +21,8 @@ h1 {
   color: #F7F9FA; }
 
 h2, h3, h4, h5, h6 {
-  font-family: "Nunito"; }
+  font-family: "Nunito";
+  color: #F7F9FA; }
 
 p {
   color: #F7F9FA;
@@ -53,6 +54,8 @@ table {
 
 footer {
   border-top: 3px solid #668AC0; }
+  footer h2, footer h3, footer h4, footer h5, footer h6 {
+    color: #212529; }
   footer p {
     color: #668AC0; }
 

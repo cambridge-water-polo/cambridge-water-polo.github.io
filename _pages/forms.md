@@ -6,3 +6,8 @@ permalink: "/forms/"
 ---
 
 Cambridge water polo forms
+
+### Links
+[GHSWPA](http://www.gapolo.com)
+
+[American Water Polo](https://www.americanwaterpolo.org)
