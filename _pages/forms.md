@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Forms
+title: Links and Forms
 date: 2018-01-30 01:05:01 -0600
 permalink: "/forms/"
 ---
@@ -15,7 +15,14 @@ permalink: "/forms/"
 ### Forms
 Simply right click each form and click "Print" :)
 
-| Description | Form |
-|-------------|------|
-| Dumb        | <embed class="d-inline-flex" src= "/assets/docs/test.pdf" width="60%" height="400px"/> |
-| Dumber      | <embed class="d-inline-flex" src= "/assets/docs/test.pdf" width="60%" height="400px"/> |
+<div class="text-center mt-5">
+
+This is my "incredibly interesting" 12th grade report I completely bs'd.
+<embed class="d-inline-flex" src= "/assets/docs/test.pdf" width="60%" height="400px"/>
+
+<br>
+
+This is a copy of my "incredibly interesting" 12th grade report I completely bs'd.
+<embed class="d-inline-flex" src= "/assets/docs/test.pdf" width="60%" height="400px"/>
+
+</div>
