@@ -1,9 +1,9 @@
 ---
 layout: post
-title: test
+title: First Post
 date: 2018-03-16 12:00
 category: Uncategorized
 author: Tyler Lee
 ---
 
-This is an exmaple post...
+Site currently under construction check back soon... :)

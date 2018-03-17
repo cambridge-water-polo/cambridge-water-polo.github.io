@@ -5,9 +5,6 @@ author: Tyler Lee
 baseurl: ""
 url: ""
 
-# Social
-github: tlee753 
-
 permalink: /:title
 include: ['_pages']
 
