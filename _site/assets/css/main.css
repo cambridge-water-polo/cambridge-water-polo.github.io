@@ -18,7 +18,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 48px;
   font-family: "Nunito", sans-serif;
-  color: #F7F9FA; }
+  color: #668AC0; }
 
 h2, h3, h4, h5, h6 {
   font-family: "Nunito", sans-serif; }
@@ -29,7 +29,7 @@ p {
 
 a {
   text-decoration: none;
-  color: #668AC0; }
+  color: #BEDC94; }
 
 ul, li {
   margin: 0; }
