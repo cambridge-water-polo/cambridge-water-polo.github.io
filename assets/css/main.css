@@ -53,6 +53,11 @@ table {
     color: #F7F9FA;
     padding: 10px; }
 
+.pdf-form {
+  width: 100%;
+  padding: 10px;
+  height: 600px; }
+
 footer {
   border-top: 3px solid #668AC0; }
   footer h2, footer h3, footer h4, footer h5, footer h6 {

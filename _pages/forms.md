@@ -18,11 +18,11 @@ Simply right click each form and click "Print" :)
 <div class="text-center mt-5">
 
 This is my "incredibly interesting" 12th grade report I completely bs'd.
-<embed class="d-inline-flex" src= "/assets/docs/test.pdf" width="60%" height="400px"/>
+<embed class="pdf-form" src= "/assets/docs/test.pdf" />
 
 <br>
 
 This is a copy of my "incredibly interesting" 12th grade report I completely bs'd.
-<embed class="d-inline-flex" src= "/assets/docs/test.pdf" width="60%" height="400px"/>
+<embed class="pdf-form" src= "/assets/docs/test.pdf"/>
 
 </div>
