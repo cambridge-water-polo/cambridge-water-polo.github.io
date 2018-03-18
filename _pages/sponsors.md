@@ -6,3 +6,5 @@ permalink: "/sponsors/"
 ---
 
 Become a Cambridge Water Polo Sponsor!!!
+
+[Sponsor Document](/assets/docs/CWP-Sponsor-Application-2018.pdf)
