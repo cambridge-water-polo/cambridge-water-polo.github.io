@@ -5,5 +5,61 @@ date: 2018-01-30 01:05:01 -0600
 permalink: "/about/coaches/"
 ---
 
-- Current: Brian Lee
-- Previous: Lauren Hall
+<p class="text-center pb-4">Meet our amazing coaches!!!</p>
+
+<section class="team-section pb-2">
+
+<!--Grid row-->
+<div class="row mb-lg-2 text-center text-md-left">
+
+<!--Grid column-->
+<div class="col-lg-6 col-md-12 mb-4">
+
+<div class="col-md-6 float-left">
+<div class="avatar mx-auto">
+<img src="/assets/images/coaches/coach-brian.jpg" class="rounded img-fluid z-depth-1">
+</div>
+</div>
+
+<div class="col-md-6 float-right">
+<h4 class="mt-2"><strong>Brian Lee</strong></h4>
+<h6 class="font-weight-bold mb-2">Head Coach</h6>
+<p>Brian Lee is a long time sports coach, involved community member, and parent of several Cambridge High School kids.</p>
+
+<!--LinkedIn-->
+<a href="https://www.linkedin.com/in/brian-lee-4376904/" class="icons-sm">
+<i class="fab fa-linkedin"> </i>
+</a>
+</div>
+
+</div>
+<!--Grid column-->
+
+<!--Grid column-->
+<div class="col-lg-6 col-md-12 mb-4">
+
+<div class="col-md-6 float-left">
+<div class="avatar mx-auto">
+<img src="/assets/images/coaches/coach-hall.jpg" class="rounded img-fluid z-depth-1" alt="Second sample avatar image">
+</div>
+</div>
+
+<div class="col-md-6 float-right">
+<h4 class="mt-2"><strong>Lauren Hall</strong></h4>
+<h6 class="font-weight-bold mb-2">Coach</h6>
+<p>Coach Hall is a social studies teacher at Cambridge High School and graduate of John Hopkins University.</p>
+
+<!--LinkedIn-->
+<a href="https://www.linkedin.com/in/lauren-hall-04073b4/" class="icons-sm">
+<i class="fab fa-linkedin"> </i>
+</a>
+</div>
+
+</div>
+<!--Grid column-->
+
+</div>
+<!--Grid row-->
+
+</section>
+            
