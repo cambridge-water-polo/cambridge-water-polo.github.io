@@ -24,12 +24,23 @@ permalink: "/about/coaches/"
 <div class="col-md-6 float-right">
 <h4 class="mt-2"><strong>Brian Lee</strong></h4>
 <h6 class="font-weight-bold mb-2">Head Coach</h6>
-<p>Brian Lee is a long time sports coach, involved community member, and parent of several Cambridge High School kids.</p>
 
 <!--LinkedIn-->
+<p class="d-inline pr-2">
 <a href="https://www.linkedin.com/in/brian-lee-4376904/" class="icons-sm">
-<i class="fab fa-linkedin"> </i>
+<i class="fab fa-linkedin"></i>
 </a>
+</p>
+
+<!--Mail-->
+<p class="d-inline">
+<a href="mailto:cambridgewaterpolo.coach@gmail.com" class="icons-sm">
+<i class="fa fa-envelope"></i>
+</a>
+</p>
+
+<p>Brian Lee is a long time sports coach, involved community member, and parent of several Cambridge High School kids.</p>
+
 </div>
 
 </div>
@@ -40,19 +51,30 @@ permalink: "/about/coaches/"
 
 <div class="col-md-6 float-left">
 <div class="avatar mx-auto">
-<img src="/assets/images/coaches/coach-hall.jpg" class="rounded img-fluid z-depth-1" alt="Second sample avatar image">
+<img src="/assets/images/coaches/coach-hall.jpg" class="rounded img-fluid z-depth-1">
 </div>
 </div>
 
 <div class="col-md-6 float-right">
 <h4 class="mt-2"><strong>Lauren Hall</strong></h4>
 <h6 class="font-weight-bold mb-2">Coach</h6>
-<p>Coach Hall is a social studies teacher at Cambridge High School and graduate of John Hopkins University.</p>
 
 <!--LinkedIn-->
+<p class="d-inline pr-2">
 <a href="https://www.linkedin.com/in/lauren-hall-04073b4/" class="icons-sm">
-<i class="fab fa-linkedin"> </i>
+<i class="fab fa-linkedin"></i>
 </a>
+</p>
+
+<!--Mail-->
+<p class="d-inline">
+<a href="mailto:cambridgebears.swimming@gmail.com" class="icons-sm">
+<i class="fa fa-envelope"></i>
+</a>
+</p>
+
+<p>Coach Hall is a social studies teacher at Cambridge High School and graduate of John Hopkins University.</p>
+
 </div>
 
 </div>

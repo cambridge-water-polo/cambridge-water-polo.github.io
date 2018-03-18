@@ -58,6 +58,14 @@ table {
   padding: 10px;
   height: 600px; }
 
+.svg-inline--fa.fa-w-14 {
+  height: 24px;
+  width: 24px; }
+
+.svg-inline--fa.fa-w-16 {
+  height: 24px;
+  width: 24px; }
+
 footer {
   border-top: 3px solid #668AC0; }
   footer h2, footer h3, footer h4, footer h5, footer h6 {
