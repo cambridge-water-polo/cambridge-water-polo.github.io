@@ -13,16 +13,16 @@ permalink: "/forms/"
 <br>
 
 ### Forms
-Simply right click each form and click "Print" :)
+Simply right click each form and click "Print"
 
-<div class="text-center mt-5">
+<div class="text-center mt-4 mb-4">
 
-This is my "incredibly interesting" 12th grade report I completely bs'd.
-<embed class="pdf-form" src= "/assets/docs/test.pdf" />
+##### Water Polo Rules
+<embed class="pdf-form" src="/assets/docs/Water-Polo-Game-Basics.pdf"/>
 
 <br>
 
-This is a copy of my "incredibly interesting" 12th grade report I completely bs'd.
-<embed class="pdf-form" src= "/assets/docs/test.pdf"/>
+##### 2018 Registration
+<embed class="pdf-form" src="/assets/docs/CWP-2018-Registration.pdf"/>
 
 </div>
