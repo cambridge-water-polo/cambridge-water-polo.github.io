@@ -18,7 +18,7 @@ Simply right click each form and click "Print"
 <div class="text-center mt-4 mb-4">
 
 ##### 2018 Registration
-<embed class="pdf-form" src="/assets/docs/CWP-2018-Registration.pdf"/>
+<embed class="pdf-form" src="/assets/docs/CambridgeWaterPolo2018.3.pdf"/>
 
 <br>
 
