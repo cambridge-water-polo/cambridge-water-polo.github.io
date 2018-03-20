@@ -30,7 +30,7 @@ p {
 
 a {
   text-decoration: none;
-  color: #668AC0; }
+  color: #BEDC94; }
 
 ul, li {
   margin: 0;
@@ -73,6 +73,8 @@ footer {
   footer h2, footer h3, footer h4, footer h5, footer h6 {
     color: #212529; }
   footer p {
+    color: #668AC0; }
+  footer a {
     color: #668AC0; }
 
 /*# sourceMappingURL=main.css.map */
