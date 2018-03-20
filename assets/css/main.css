@@ -64,6 +64,10 @@ table {
   height: 24px;
   width: 24px; }
 
+.parallax-window {
+  min-height: 400px;
+  background: transparent; }
+
 footer {
   border-top: 3px solid #668AC0; }
   footer h2, footer h3, footer h4, footer h5, footer h6 {
