@@ -17,12 +17,12 @@ Simply right click each form and click "Print"
 
 <div class="text-center mt-4 mb-4">
 
-##### Water Polo Rules
-<embed class="pdf-form" src="/assets/docs/Water-Polo-Game-Basics.pdf"/>
+##### 2018 Registration
+<embed class="pdf-form" src="/assets/docs/CWP-2018-Registration.pdf"/>
 
 <br>
 
-##### 2018 Registration
-<embed class="pdf-form" src="/assets/docs/CWP-2018-Registration.pdf"/>
+##### Water Polo Rules
+<embed class="pdf-form" src="/assets/docs/Water-Polo-Game-Basics.pdf"/>
 
 </div>
