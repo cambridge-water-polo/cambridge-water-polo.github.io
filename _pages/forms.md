@@ -10,6 +10,8 @@ permalink: "/forms/"
 
 [American Water Polo](https://www.americanwaterpolo.org)
 
+[GHSWPA Standings](http://www.gapolo.com/standings/)
+
 <br>
 
 ### Forms
