@@ -6,11 +6,11 @@ permalink: "/sponsors/"
 ---
 
 <h3>2017</h3>
-<div class="row p-2 mb-2 d-flex">
+<div class="row">
     
-<img class="col-xs-4 p-2 mx-auto" src="/assets/images/sponsors/ipps_clean.png" height="150px"/>
-<img class="col-xs-4 p-2 mx-auto" src="/assets/images/sponsors/scratch.png" height="150px"/>
-<img class="col-xs-4 p-2 mx-auto" src="/assets/images/sponsors/staton.jpg" height="150px"/>
+<img class="col-xs-4 mb-2 p-2" src="/assets/images/sponsors/ipps_clean.png" height="150px"/>
+<img class="col-xs-4 mb-2 p-2" src="/assets/images/sponsors/scratch.png" height="150px"/>
+<img class="col-xs-4 mb-2 p-2" src="/assets/images/sponsors/staton.jpg" height="150px"/>
 
 </div>
 <p class="mb-4">Thank you to our 2017 sponsors that helped make our season's success possible!</p>
