@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Links and Forms
+title: Forms
 date: 2018-01-30 01:05:01 -0600
 permalink: "/forms/"
 ---
 
-### Forms
 Simply right click each form and click "Print"
 
 <div class="text-center mt-4 mb-4">

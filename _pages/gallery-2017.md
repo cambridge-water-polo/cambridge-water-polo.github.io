@@ -5,6 +5,8 @@ date: 2018-03-21 02:00:00 -0600
 permalink: "/gallery/2017/"
 ---
 
+More pictures coming soon...
+
 <div>
 
 <a class="example-image-link pt-4 pb-4" href="/assets/images/slider/slider-1.jpg" data-lightbox="2017-set" data-title="caption">
