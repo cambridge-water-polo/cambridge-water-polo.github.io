@@ -5,15 +5,6 @@ date: 2018-01-30 01:05:01 -0600
 permalink: "/forms/"
 ---
 
-### Links
-[GHSWPA](http://www.gapolo.com)
-
-[American Water Polo](https://www.americanwaterpolo.org)
-
-[GHSWPA Standings](http://www.gapolo.com/standings/)
-
-<br>
-
 ### Forms
 Simply right click each form and click "Print"
 

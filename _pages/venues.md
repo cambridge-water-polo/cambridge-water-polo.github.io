@@ -2,7 +2,7 @@
 layout: page
 title: Venues and Double Pool Diagrams
 date: 2018-03-21 12:00:00 -0600
-permalink: "/venues/"
+permalink: "/about/venues/"
 ---
 
 <br>
@@ -12,7 +12,7 @@ permalink: "/venues/"
 
 Marietta, GA 30060-2722 
 
-[via Google Maps]()
+[via Google Maps](http://goo.gl/maps/ow1FC)
 
 ---
 
@@ -21,7 +21,7 @@ Marietta, GA 30060-2722
 
 Canton, GA 30114 
 
-[via Google Maps]()
+[via Google Maps](https://goo.gl/maps/FwpytxYhPdK2)
 
 ---
 
@@ -30,7 +30,7 @@ Canton, GA 30114
 
 Lawrenceville, GA 30043
 
-[via Google Maps]()
+[via Google Maps](http://g.co/maps/h5qyy)
 1. I-85 N toward Greenville, 13 miles past 285
 2. Take exit 109 to Old Peachtree Rd .6 miles
 3. Turn right on Old Peachtree Rd NW .6 miles
@@ -47,11 +47,11 @@ Lawrenceville, GA 30043
 
 Cumming, GA 30040
 
-Facility Rules
+[Facility Rules](http://www.gapolo.com/pdf/cumming-ac-rules.pdf)
 
-Double-Pool Diagram for Cumming  (page 3)
+[Double-Pool Diagram for Cumming](http://www.gapolo.com/pdf/handbook/ghswpa_double-pool-diagrams.pdf) (page 3)
 
-[via Google Maps]()
+[via Google Maps](http://g.co/maps/z2yrw)
 
 ---
 
@@ -62,7 +62,7 @@ High School (indoor pool)
 
 Dalton, GA 30720
 
-[via Google Maps]()
+[via Google Maps](http://goo.gl/maps/aZSgP)
 
 <br>
 
@@ -72,7 +72,7 @@ Rec Center (outdoor pool)
 
 Dalton, GA 30721
 
-[via Google Maps]()
+[via Google Maps](http://goo.gl/maps/MYBdZ)
 
 ---
 
@@ -81,9 +81,9 @@ Dalton, GA 30721
 
 Chamblee, GA 30341
 
-Double-Pool Diagram for Dynamo (page 1)
+[Double-Pool Diagram for Dynamo](http://www.gapolo.com/pdf/handbook/ghswpa_double-pool-diagrams.pdf) (page 1)
 
-[via Google Maps]()
+[via Google Maps](http://g.co/maps/ta6ky)
 
 ---
 
@@ -92,7 +92,7 @@ Double-Pool Diagram for Dynamo (page 1)
 
 Atlanta, GA 30332-0001
 
-[via Google Maps]()
+[via Google Maps](http://g.co/maps/dzksc)
 
 ---
 
@@ -103,7 +103,7 @@ Norcross, GA 30093-2614
 
 770.243.2000
 
-[via Google Maps]()
+[via Google Maps](http://g.co/maps/e8fhy)
 1. Take I-85 North
 2. Exit 101 (Indian Trail/Lilburn Road), Turn right
 3. GACS is located half-mile on the right at the intersection of Oakbrook Parkway and Indian Trail Road
@@ -120,7 +120,7 @@ Jonesboro, GA
 
 678.479.5135
 
-[via Google Maps]()
+[via Google Maps](http://g.co/maps/wqj53)
 
 ---
 
@@ -129,7 +129,7 @@ Jonesboro, GA
 
 Peachtree City, GA 30269
 
-[via Google Maps]()
+[via Google Maps](http://g.co/maps/z7nyk)
 
 ---
 
@@ -138,7 +138,7 @@ Peachtree City, GA 30269
 
 Atlanta, GA 30345-3856
 
-[via Google Maps]()
+[via Google Maps](http://g.co/maps/ud8zv)
 
 ---
 
@@ -147,9 +147,9 @@ Atlanta, GA 30345-3856
 
 Marietta, GA 30066
 
-Double-Pool Diagram for Mountain View  (page 2)
+[Double-Pool Diagram for Mountain View](http://www.gapolo.com/pdf/handbook/ghswpa_double-pool-diagrams.pdf) (page 2)
 
-[via Google Maps]()
+[via Google Maps](https://goo.gl/maps/qUWiwNqJLsF2)
 
 ---
 
@@ -158,7 +158,7 @@ Double-Pool Diagram for Mountain View  (page 2)
 
 Atlanta, GA 30327
 
-[via Google Maps]()
+[via Google Maps](http://g.co/maps/hcjy9)
 1. I-75 South
 2. Take exit 255 for W Paces Ferry Rd toward Northside Pkwy/US-41 .2 miles
 3. Turn left at W Paces Farry Rd NW (signs for Buckhead/US-41) .9 miles
@@ -175,7 +175,7 @@ Lawrenceville, GA 30044
 
 678.442.7946
 
-[via Google Maps]()
+[via Google Maps](http://g.co/maps/kgzcf)
 
 ---
 
@@ -184,7 +184,7 @@ Lawrenceville, GA 30044
 
 Norcross, GA 30092
 
-[via Google Maps]()
+[via Google Maps](http://g.co/maps/37d92)
 1. 285 East
 2. Exit 31B for GA-141 N/ Peachtree Ind Blvd .3 miles
 3. Merge onto GA-141 N/Peachtree Ind Blvd 3.8 miles
@@ -200,7 +200,4 @@ Norcross, GA 30092
 
 Norcross, GA 30071
 
-[via Google Maps]()
-
-
-
+[via Google Maps](http://g.co/maps/huh35)

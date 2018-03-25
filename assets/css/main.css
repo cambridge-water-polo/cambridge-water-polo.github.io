@@ -71,6 +71,9 @@ table {
 hr {
   border-top: 1px solid white; }
 
+.header-shadow {
+  text-shadow: 2px 2px #0B305F, 0 0 60px #0B305F; }
+
 footer {
   border-top: 3px solid #668AC0; }
   footer h2, footer h3, footer h4, footer h5, footer h6 {
