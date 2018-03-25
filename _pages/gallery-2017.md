@@ -230,7 +230,6 @@ permalink: "/gallery/2017/"
 </a>
 </div>
 
-
 </div>
 
 
