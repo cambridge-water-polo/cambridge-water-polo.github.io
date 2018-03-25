@@ -1,10 +1,14 @@
 ---
 layout: page
 title: Sponsors
-date: 2018-01-30 01:05:01 -0600
+date: 2018-03-20
 permalink: "/sponsors/"
 ---
 
-Become a Cambridge Water Polo Sponsor!!!
+[Become a Cambridge Water Polo Sponsor!!!](/assets/docs/CWP-Sponsor-Application-2018.pdf)
 
-[Sponsor Document](/assets/docs/CWP-Sponsor-Application-2018.pdf)
+<div class="text-center mb-4">
+
+<embed class="pdf-form" src="/assets/docs/CWP-Sponsor-Application-2018.pdf"/>
+
+</div>
