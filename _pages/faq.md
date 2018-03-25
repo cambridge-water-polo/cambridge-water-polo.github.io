@@ -16,7 +16,7 @@ Comfort in the water is the most fundamental water polo skill.  Swimming is part
 <br>
 
 ### How do I learn the rules of water polo?
-Unlike other sports, water polo action does not stop when the whistle blows.  Action begins when the whistle blows.  The object of the game is to throw the ball in the goal.  Goalies can touch the ball with two hands.  All other players can only touch the ball with one hand.   Fouls create free throws for the person fouled.  In some instances, when the person fouled is grossly impeded, the defender has to leave the game for 20 seconds and the offense has a “power play opportunity.”  In the worst fouls, a penalty throw is awarded.   For a more detailed explanation of the Water Polo game, see the [Water Polo Rules](/forms/) brief overview.
+Unlike other sports, water polo action does not stop when the whistle blows.  Action begins when the whistle blows.  The object of the game is to throw the ball in the goal.  Goalies can touch the ball with two hands.  All other players can only touch the ball with one hand.   Fouls create free throws for the person fouled.  In some instances, when the person fouled is grossly impeded, the defender has to leave the game for 20 seconds and the offense has a “power play opportunity.”  In the worst fouls, a penalty throw is awarded.   For a more detailed explanation of the Water Polo game, see the [Water Polo Rules](/forms/rules/) brief overview.
 
 <br>
 
