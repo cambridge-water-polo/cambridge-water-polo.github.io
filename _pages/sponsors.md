@@ -5,7 +5,17 @@ date: 2018-03-20
 permalink: "/sponsors/"
 ---
 
-[Become a Cambridge Water Polo Sponsor!!!](/assets/docs/CWP-Sponsor-Application-2018.pdf)
+<h3>2017</h3>
+<div class="row p-2 mb-2 d-flex">
+    
+<img class="col-xs-4 p-2 mx-auto" src="/assets/images/sponsors/ipps_clean.png" height="150px"/>
+<img class="col-xs-4 p-2 mx-auto" src="/assets/images/sponsors/scratch.png" height="150px"/>
+<img class="col-xs-4 p-2 mx-auto" src="/assets/images/sponsors/staton.jpg" height="150px"/>
+
+</div>
+<p class="mb-4">Thank you to our 2017 sponsors that helped make our season's success possible!</p>
+
+### [Become a Cambridge Water Polo Sponsor!!!](/assets/docs/CWP-Sponsor-Application-2018.pdf)
 
 <div class="text-center mb-4">
 
