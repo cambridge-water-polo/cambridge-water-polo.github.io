@@ -10,7 +10,6 @@ On Sunday, September 24th, CWP bounced back with two wins.  The first game was 
 
 <br>
 
-
 In the second game Cambridge prevailed over Forsyth C, 12-3.  This time the scoring was a team effort with eight players scoring at least one goal.  Cambridge attempted 23 shots on goal.  Zachary Parker pulled off a near full pool length drive and score.
 
 <br>
