@@ -4,6 +4,7 @@
 
 {% for post in site.posts | limit: 5 %}
 <a style="font-size: 30px;" href="{{ post.url }}">{{ post.title }}</a><br>
+<p>{{ post.date | date: "%B %d, %Y" }}</p>
 {% endfor %}
 
 </div>
