@@ -9,7 +9,7 @@ permalink: "/gallery/2017/"
 
 <div class="container">
 
-{% for i in (1..31) %}
+{% for i in (1..29) %}
 {% assign mod = forloop.index | modulo: 3 %}
 
 {% if mod == 0 %}
