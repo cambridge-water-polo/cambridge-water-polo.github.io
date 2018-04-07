@@ -11,12 +11,12 @@ Simply right click the embedded PDF and select `Print` or select `Save As` to do
 
 <div class="text-center mt-4 mb-4">
 
-### [OSB Information](/assets/docs/OSP-Parent-Notification-Fulton.pdf)
+### [OSP Information](/assets/docs/OSP-Parent-Notification-Fulton.pdf)
 <embed class="pdf-form" src="/assets/docs/OSP-Parent-Notification-Fulton.pdf"/>
 
 <br>
 
-### [OSB Sign Up Instructions](/assets/docs/OSP-Parent-Purchase-Fulton.pdf)
+### [OSP Sign Up Instructions](/assets/docs/OSP-Parent-Purchase-Fulton.pdf)
 <embed class="pdf-form" src="/assets/docs/OSP-Parent-Purchase-Fulton.pdf"/>
 
 </div>

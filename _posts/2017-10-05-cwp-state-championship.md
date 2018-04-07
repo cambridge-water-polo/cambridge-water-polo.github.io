@@ -6,6 +6,12 @@ category: Game
 author: Brian Lee
 ---
 
+<style>
+img {
+    max-width: 100%;
+}
+</style>
+
 ![2017 Team Photo](/assets/images/slider/slider-1.jpg)
 
 <br>
