@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2017 Gallery
-date: 2018-03-21 02:00:00 -0600
+date: 2018-03-21
 permalink: "/gallery/2017/"
 ---
 

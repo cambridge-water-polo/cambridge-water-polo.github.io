@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Webdev
-date: 2018-03-25 12:00:00 -0600
+date: 2018-03-25
 permalink: "/webdev/"
 ---
 

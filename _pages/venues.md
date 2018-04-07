@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Venues and Double Pool Diagrams
-date: 2018-03-21 12:00:00 -0600
+date: 2018-03-21
 permalink: "/about/venues/"
 ---
 

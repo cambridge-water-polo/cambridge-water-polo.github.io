@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ
-date: 2018-02-30 01:05:01 -0600
+date: 2018-02-30
 permalink: "/about/faq/"
 ---
 

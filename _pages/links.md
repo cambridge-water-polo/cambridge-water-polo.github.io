@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Links
-date: 2018-03-24 12:00:00 -0600
+date: 2018-03-24
 permalink: "/links/"
 ---
 
