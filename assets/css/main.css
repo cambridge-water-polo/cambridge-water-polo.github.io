@@ -71,6 +71,16 @@ hr {
 .header-shadow {
   text-shadow: 2px 2px #0B305F, 0 0 60px #0B305F; }
 
+blockquote {
+  color: #F7F9FA;
+  border-left: 4px solid #F7F9FA;
+  padding-left: 5px;
+  font-size: 18px;
+  letter-spacing: -1px;
+  font-style: italic; }
+  blockquote > :last-child {
+    margin-bottom: 0; }
+
 footer {
   border-top: 3px solid #668AC0; }
   footer h2, footer h3, footer h4, footer h5, footer h6 {
