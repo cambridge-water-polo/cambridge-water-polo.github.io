@@ -15,7 +15,11 @@ permalink: "/sponsors/"
 </div>
 <p class="mb-4">Thank you to our 2017 sponsors that helped make our season's success possible!</p>
 
+<div class="text-center mt-4">
+
 ### [Become a Cambridge Water Polo Sponsor!!!](/assets/docs/CWP-Sponsor-Application-2018.pdf)
+
+</div>
 
 <div class="text-center mb-4">
 

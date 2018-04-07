@@ -81,6 +81,9 @@ blockquote {
   blockquote > :last-child {
     margin-bottom: 0; }
 
+.navbar-logo {
+  margin-right: 10px; }
+
 footer {
   border-top: 3px solid #668AC0; }
   footer h2, footer h3, footer h4, footer h5, footer h6 {
