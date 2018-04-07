@@ -73,7 +73,7 @@ permalink: "/about/coaches/"
 </a>
 </p>
 
-<p>Coach Hall is a social studies teacher at Cambridge High School and graduate of John Hopkins University.</p>
+<p>Coach Hall is a social studies teacher at Cambridge High School and collegiate water polo athlete.</p>
 
 </div>
 
