@@ -18,6 +18,8 @@ Click [here](https://goo.gl/forms/nEQE4xC2maemkgRI3) for new electronic registra
 
 <div/>
 
+<br><br>
+
 ### Paper Copy (Obsolete - please use electronic registration)
 Be sure to read the following registration packet carefully, then print and fill out accordingly. Registration packets can be submitted to Coach Brian Lee or Coach Lauren Hall.
 <br><br>
