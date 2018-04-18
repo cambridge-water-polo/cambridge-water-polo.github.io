@@ -6,7 +6,7 @@ permalink: "/forms/registration/"
 ---
 
 ### [Electronic Registration](https://goo.gl/forms/nEQE4xC2maemkgRI3)
-Click [here](https://goo.gl/forms/nEQE4xC2maemkgRI3) for new electronic registration!!! Be sure to read the concussion awareness and medical waiver below as well.
+Click [here](https://goo.gl/forms/nEQE4xC2maemkgRI3) for new electronic registration!!! Be sure to **complete** the concussion awareness and medical waiver below as well. The forms can be submitted to either Coach Lee or Coach Hall.
 
 <div class="text-center mt-4 mb-4">
 
