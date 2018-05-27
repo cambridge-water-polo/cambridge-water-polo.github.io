@@ -2,7 +2,7 @@
 layout: page
 title: Payment
 date: 2018-04-06
-permalink: "/forms/payment/"
+permalink: "/registration/payment/"
 ---
 
 Please read the following **two documents** carefully as an optional way to pay your child's water polo fee. *Checks made out to "Cambridge High School" with "Cambridge Water Polo" on memo/subject line also accepted.*

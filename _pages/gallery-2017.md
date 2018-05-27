@@ -14,8 +14,8 @@ permalink: "/gallery/2017/"
 
 {% if mod == 0 %}
 <div class="col-md-4 mb-4">
-<a href="/assets/images/2017/CWP-2017-{{ i }}.jpg" data-lightbox="2017-set" data-title="caption">
-    <img src="/assets/images/2017/CWP-2017-{{ i }}-thumb.jpg" alt="" style="width: 100%;"/>
+<a href="/assets/images/gallery/2017/CWP-2017-{{ i }}.jpg" data-lightbox="2017-set" data-title="caption">
+    <img src="/assets/images/gallery/2017/CWP-2017-{{ i }}-thumb.jpg" alt="" style="width: 100%;"/>
 </a>
 </div>
 
@@ -25,8 +25,8 @@ permalink: "/gallery/2017/"
 <div class="row">
 
 <div class="col-md-4 mb-4">
-<a href="/assets/images/2017/CWP-2017-{{ i }}.jpg" data-lightbox="2017-set" data-title="caption">
-    <img src="/assets/images/2017/CWP-2017-{{ i }}-thumb.jpg" alt="" style="width: 100%;"/>
+<a href="/assets/images/gallery/2017/CWP-2017-{{ i }}.jpg" data-lightbox="2017-set" data-title="caption">
+    <img src="/assets/images/gallery/2017/CWP-2017-{{ i }}-thumb.jpg" alt="" style="width: 100%;"/>
 </a>
 </div>
 
@@ -36,8 +36,8 @@ permalink: "/gallery/2017/"
 
 {% elsif mod == 2 %}
 <div class="col-md-4 mb-4">
-<a href="/assets/images/2017/CWP-2017-{{ i }}.jpg" data-lightbox="2017-set" data-title="caption">
-    <img src="/assets/images/2017/CWP-2017-{{ i }}-thumb.jpg" alt="" style="width: 100%;"/>
+<a href="/assets/images/gallery/2017/CWP-2017-{{ i }}.jpg" data-lightbox="2017-set" data-title="caption">
+    <img src="/assets/images/gallery/2017/CWP-2017-{{ i }}-thumb.jpg" alt="" style="width: 100%;"/>
 </a>
 </div>
 
