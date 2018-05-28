@@ -91,10 +91,10 @@ Each athlete is responsible for acquiring their own swim suit.  Specially design
 <br>
 
 Water polo suits are available from a variety of online sources, including:
-- http://www.kap7.com/water-polo/
-- https://www.swimoutlet.com/
-- https://www.tyr.com/
-- https://www.amazon.com/
+- [http://www.kap7.com/water-polo/](http://www.kap7.com/water-polo/)
+- [https://www.swimoutlet.com](https://www.swimoutlet.com)
+- [https://www.tyr.com](https://www.tyr.com)
+- [https://www.amazon.com](https://www.amazon.com)
 
 <br>
 
