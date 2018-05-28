@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Forms
-date: 2018-03-25
-permalink: "/registration/forms/"
+title: Registration
+date: 2018-05-28
+permalink: "/registration/"
 ---
 
 ### Welcome to Cambridge’s Sixth season of water polo! 
@@ -10,7 +10,7 @@ Here are the details you need to know for the upcoming season.
 
 <br>
 
-Cambridge Water Polo (CWP) is open to all area High School and Middle School aged players.  We are planning to have two Cambridge Water Polo (CWP) teams this year.  There will be one Division 2 team and one Division 3 team.  Both teams will be co-ed as we have done since the inception of CWP.  The CWP coaches will determine the rosters for the D2 and D3 teams after tryouts and CWP practices.
+Cambridge Water Polo (CWP) is open to all area High School and Middle School aged players.  We are planning to have two teams this year.  There will be one Division 2 (D2) team and one Division 3 (D3) team.  Both teams will be co-ed as we have done since the inception of CWP.  The CWP coaches will determine the rosters for the D2 and D3 teams after tryouts and CWP practices.
 
 <br>
 
@@ -32,12 +32,12 @@ Registration fees are $225 for first player; $200 for each additional sibling.
 
 <br>
 
-### CWP Registration and Medical Information Form
+### [Medical Waiver Form](/assets/docs/Medical-Waiver.pdf)
 Please complete the CWP e-registration form as well as both the medical waiver form prior to the first 2018 CWP event you are participating in. CWP has to have medical clearance from your parents and health insurance information on hand at all times. The link to the CWP e-registration is available on the CWP website under Forms.  Click [here](/assets/docs/Medical-Waiver.pdf) for the form.
 
 <br>
 
-### Concussion Awareness Form
+### [Concussion Awarness Form](/assets/docs/Concussion-Awareness.pdf)
 Please sign and return to Lauren Hall or mail to Coach Lee prior to our first practice.  This is a League requirement.  Click [here](/assets/docs/Concussion-Awareness.pdf) for the form.
 
 <br>
@@ -94,39 +94,23 @@ If your parent is interested in helping out with running the table for our team,
 ### [Electronic Registration](https://goo.gl/forms/nEQE4xC2maemkgRI3)
 Click [here](https://goo.gl/forms/nEQE4xC2maemkgRI3) for new electronic registration!!! Be sure to **complete** the concussion awareness and medical waiver below as well. The forms can be submitted to either Coach Lee or Coach Hall.
 
-<div class="mt-4 mb-4">
-
-### [Concussion Awarness Form](/assets/docs/Concussion-Awareness.pdf)
-<!-- <embed class="pdf-form" src="/assets/docs/Concussion-Awareness.pdf"/> -->
-
 <br>
 
-### [Medical Waiver Form](/assets/docs/Medical-Waiver.pdf)
-<!-- <embed class="pdf-form" src="/assets/docs/Medical-Waiver.pdf"/> -->
-
-
-</div>
-
-
-<!--
-<div>
-
-<br><br>
-
----
-
-### Paper Copy (Obsolete - please use electronic registration)
-Be sure to read the following registration packet carefully, then print and fill out accordingly. Registration packets can be submitted to Coach Brian Lee or Coach Lauren Hall.
+### Alternate Form of Payment
+Please read the following **two documents** carefully as an optional way to pay your child's water polo fee. *Checks made out to "Cambridge High School" with "Cambridge Water Polo" on memo/subject line also accepted.*
+<br>
+Click [here](http://osp.osmsinc.com/fultonga) to go directly to OSP site!
 <br><br>
 Simply right click the embedded PDF and select `Print` or select `Save As` to download a soft copy.
 
 <div class="text-center mt-4 mb-4">
 
-### [2018 Registration](/assets/docs/CambridgeWaterPolo2018.3.pdf)
-<embed class="pdf-form" src="/assets/docs/CambridgeWaterPolo2018.3.pdf"/>
+### [OSP Information](/assets/docs/OSP-Parent-Notification-Fulton.pdf)
+<embed class="pdf-form" src="/assets/docs/OSP-Parent-Notification-Fulton.pdf"/>
 
----
+<br>
+
+### [OSP Sign Up Instructions](/assets/docs/OSP-Parent-Purchase-Fulton.pdf)
+<embed class="pdf-form" src="/assets/docs/OSP-Parent-Purchase-Fulton.pdf"/>
 
 </div>
--->
-
