@@ -14,14 +14,31 @@ Cambridge Water Polo (CWP) is open to all area High School and Middle School age
 
 <br>
 
+### [Electronic Registration](https://goo.gl/forms/nEQE4xC2maemkgRI3)
+Click [here](https://goo.gl/forms/nEQE4xC2maemkgRI3) for new electronic registration!!! Be sure to **complete** the concussion awareness and medical waiver below as well. The forms can be submitted to either Coach Lee or Coach Hall.
+
+<br>
+
 ### Summer Clinic and Practices
 Plans are being made to have at least one water polo clinic and possibly several scrimmages in June and July.  Coach Lee is still working on these so look forward to more information once plans are confirmed.  These summer CWP events will be available to all players who have completed their American Water Polo Membership, CWP Registration forms, and paid the 2018 CWP registration fee.
 
 <br>
+
 ### CWP Registration Fees
 Registration fees are $225 for first player; $200 for each additional sibling.
 - Covers pool space rental for practice, league entry fee, CWP t-shirt, and game equipment
 - Make checks payable to Cambridge High School (please put water polo on subject line)
+
+<br>
+
+### Alternate Form of Payment
+Please read the following **two documents** carefully as an optional way to pay your child's water polo fee. *Checks made out to "Cambridge High School" with "Cambridge Water Polo" on memo/subject line also accepted.*
+<br>
+Click [here](http://osp.osmsinc.com/fultonga) to go directly to OSP site!
+<br>
+[OSP Information](/assets/docs/OSP-Parent-Notification-Fulton.pdf)
+<br>
+[OSP Sign Up Instructions](/assets/docs/OSP-Parent-Purchase-Fulton.pdf)
 
 <br>
 
@@ -88,29 +105,3 @@ Parents are critical to support the CWP program.  Support is needed for game sco
 
 If your parent is interested in helping out with running the table for our team, please let me know so we can get you trained.  It is easy and guarantees a center pool view of the game!  It is a League requirement that there be two parents for each game as table workers (scorers).  
 - Table Worker Clinics are offered by the League in August.
-
-<br>
-
-### [Electronic Registration](https://goo.gl/forms/nEQE4xC2maemkgRI3)
-Click [here](https://goo.gl/forms/nEQE4xC2maemkgRI3) for new electronic registration!!! Be sure to **complete** the concussion awareness and medical waiver below as well. The forms can be submitted to either Coach Lee or Coach Hall.
-
-<br>
-
-### Alternate Form of Payment
-Please read the following **two documents** carefully as an optional way to pay your child's water polo fee. *Checks made out to "Cambridge High School" with "Cambridge Water Polo" on memo/subject line also accepted.*
-<br>
-Click [here](http://osp.osmsinc.com/fultonga) to go directly to OSP site!
-<br><br>
-Simply right click the embedded PDF and select `Print` or select `Save As` to download a soft copy.
-
-<div class="text-center mt-4 mb-4">
-
-### [OSP Information](/assets/docs/OSP-Parent-Notification-Fulton.pdf)
-<embed class="pdf-form" src="/assets/docs/OSP-Parent-Notification-Fulton.pdf"/>
-
-<br>
-
-### [OSP Sign Up Instructions](/assets/docs/OSP-Parent-Purchase-Fulton.pdf)
-<embed class="pdf-form" src="/assets/docs/OSP-Parent-Purchase-Fulton.pdf"/>
-
-</div>
