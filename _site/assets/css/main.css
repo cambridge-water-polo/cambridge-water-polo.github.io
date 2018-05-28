@@ -20,7 +20,11 @@ h1 {
   font-family: "Nunito";
   color: #F7F9FA; }
 
-h2, h3, h4, h5, h6 {
+h2, h3 {
+  font-family: "Nunito";
+  color: #70B8FF; }
+
+h4, h5, h6 {
   font-family: "Nunito";
   color: #F7F9FA; }
 
@@ -84,6 +88,27 @@ blockquote {
 .navbar-logo {
   margin-right: 10px; }
 
+/**
+ * Code formatting
+ */
+pre,
+code {
+  font-size: 15px;
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+  background-color: #eef; }
+
+code {
+  padding: 1px 5px; }
+
+pre {
+  padding: 8px 12px;
+  overflow-x: auto; }
+  pre > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0; }
+
 footer {
   border-top: 3px solid #668AC0; }
   footer h2, footer h3, footer h4, footer h5, footer h6 {
@@ -92,5 +117,8 @@ footer {
     color: #668AC0; }
   footer a {
     color: #668AC0; }
+
+.post-content img {
+  max-width: 100%; }
 
 /*# sourceMappingURL=main.css.map */
