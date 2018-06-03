@@ -10,27 +10,25 @@ permalink: "/registration/"
 <br>
 
 <div class="row">
-<div class="col-md-3">
+<div class="col-md-3 mb-2">
 <a href="https://goo.gl/forms/nEQE4xC2maemkgRI3" class="btn btn-light active w-100" role="button" aria-pressed="true">Electronic Registration</a>
 </div>
 
-<div class="col-md-3">
-<a href="/assets/docs/Medical-Waiver.pdf" class="btn btn-light active w-100" role="button" aria-pressed="true">Medical Waiver</a>
+<div class="col-md-3 mb-2">
+<a href="/assets/docs/Medical-Waiver.pdf" class="btn btn-light active w-100 p-10" role="button" aria-pressed="true">Medical Waiver</a>
 </div>
 
-<div class="col-md-3">
-<a href="/assets/docs/Concussion-Awareness.pdf" class="btn btn-light active w-100" role="button" aria-pressed="true">Concussion Awareness</a>
+<div class="col-md-3 mb-2">
+<a href="/assets/docs/Concussion-Awareness.pdf" class="btn btn-light active w-100 p-10" role="button" aria-pressed="true">Concussion Awareness</a>
 </div>
 
-<div class="col-md-3">
+<div class="col-md-3 mb-2">
 <a href="/assets/docs/CWP-Physical-Form.pdf" class="btn btn-light active w-100" role="button" aria-pressed="true">Physical</a>
 </div>
 </div>
 
-<br>
-
 <div class="row">
-<div class="col-md-3">
+<div class="col-md-3 mb-2">
 <a href="http://www.americanwaterpolo.org/join-now" class="btn btn-light active w-100" role="button" aria-pressed="true">American WP Membership</a>
 </div>
 
