@@ -5,6 +5,42 @@ date: 2018-05-28
 permalink: "/registration/"
 ---
 
+---
+### Quicklinks
+<br>
+
+<div class="row">
+<div class="col-md-3">
+<a href="https://goo.gl/forms/nEQE4xC2maemkgRI3" class="btn btn-light active w-100" role="button" aria-pressed="true">Electronic Registration</a>
+</div>
+
+<div class="col-md-3">
+<a href="/assets/docs/Medical-Waiver.pdf" class="btn btn-light active w-100" role="button" aria-pressed="true">Medical Waiver</a>
+</div>
+
+<div class="col-md-3">
+<a href="/assets/docs/Concussion-Awareness.pdf" class="btn btn-light active w-100" role="button" aria-pressed="true">Concussion Awareness</a>
+</div>
+
+<div class="col-md-3">
+<a href="/assets/docs/CWP-Physical-Form.pdf" class="btn btn-light active w-100" role="button" aria-pressed="true">Physical</a>
+</div>
+</div>
+
+<br>
+
+<div class="row">
+<div class="col-md-3">
+<a href="http://www.americanwaterpolo.org/join-now" class="btn btn-light active w-100" role="button" aria-pressed="true">American WP Membership</a>
+</div>
+
+<div class="col-md-3">
+<a href="http://osp.osmsinc.com/fultonga" class="btn btn-light active w-100" role="button" aria-pressed="true">OSP Payment</a>
+</div>
+</div>
+
+<hr>
+
 ### Welcome to Cambridge’s Sixth season of water polo! 
 Here are the details you need to know for the upcoming season.
 
@@ -59,7 +95,7 @@ Please sign and return to Lauren Hall or mail to Coach Lee prior to our first pr
 
 <br>
 
-### Physical Form
+### [Physical Form](/assets/docs/CWP-Physical-Form.pdf)
 Every CWP player has to have a valid physical on file for the 2018 season.
 
 <br>
