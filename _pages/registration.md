@@ -67,12 +67,9 @@ Registration fees are $225 for first player; $200 for each additional sibling.
 
 ### Alternate Form of Payment
 Please read the following **two documents** carefully as an optional way to pay your child's water polo fee. *Checks made out to "Cambridge High School" with "Cambridge Water Polo" on memo/subject line also accepted.*
-<br>
-Click [here](http://osp.osmsinc.com/fultonga) to go directly to OSP site!
-<br>
-[OSP Information](/assets/docs/OSP-Parent-Notification-Fulton.pdf)
-<br>
-[OSP Sign Up Instructions](/assets/docs/OSP-Parent-Purchase-Fulton.pdf)
+- Click [here](http://osp.osmsinc.com/fultonga) to go directly to OSP site!
+- [OSP Information](/assets/docs/OSP-Parent-Notification-Fulton.pdf)
+- [OSP Sign Up Instructions](/assets/docs/OSP-Parent-Purchase-Fulton.pdf)
 
 <br>
 
@@ -84,7 +81,7 @@ Click [here](http://osp.osmsinc.com/fultonga) to go directly to OSP site!
 <br>
 
 ### [Medical Waiver Form](/assets/docs/Medical-Waiver.pdf)
-Please complete the CWP e-registration form as well as both the medical waiver form prior to the first 2018 CWP event you are participating in. CWP has to have medical clearance from your parents and health insurance information on hand at all times. The link to the CWP e-registration is available on the CWP website under Forms.  Click [here](/assets/docs/Medical-Waiver.pdf) for the form.
+Please complete medical waiver form prior to the first 2018 CWP event you are participating in. CWP has to have medical clearance from your parents and health insurance information on hand at all times. Click [here](/assets/docs/Medical-Waiver.pdf) for the form.
 
 <br>
 
@@ -94,7 +91,7 @@ Please sign and return to Lauren Hall or mail to Coach Lee prior to our first pr
 <br>
 
 ### [Physical Form](/assets/docs/CWP-Physical-Form.pdf)
-Every CWP player has to have a valid physical on file for the 2018 season.
+Every CWP player has to have a valid physical on file for the 2018 season. Click [here](/assets/docs/CWP-Physical-Form.pdf) for the form.
 
 <br>
 
