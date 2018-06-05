@@ -49,7 +49,7 @@ Cambridge Water Polo (CWP) is open to all area High School and Middle School age
 <br>
 
 ### [Electronic Registration](https://goo.gl/forms/nEQE4xC2maemkgRI3)
-Click [here](https://goo.gl/forms/nEQE4xC2maemkgRI3) for new electronic registration!!! Be sure to **complete** the concussion awareness and medical waiver below as well. The forms can be submitted to either Coach Lee or Coach Hall.
+Click [here](https://goo.gl/forms/nEQE4xC2maemkgRI3) for new electronic registration!!! Be sure to **complete** the concussion awareness, medical waiver, and physical below as well. The forms can be submitted to either Coach Lee or Coach Hall.
 
 <br>
 
