@@ -2,11 +2,37 @@
 layout: page
 title: FAQ
 date: 2018-02-30
-permalink: "/about/faq/"
+permalink: "/faq/"
 ---
 
-### How do I join Cambridge Water Polo?
-Start by [contacting us](/contact/) so we can answer any questions you may have.  From there you just need to complete the CWP Registration form and join American Water Polo.
+### Team Communications
+Please sign up for our team Remind101 messages! This is especially important for practice and other schedule changes that may be last minute (e.g. lightning in the area causes a pool closing)!
+- Send a text to 81010 with @bearspolo in the message box to receive our text messages!
+- You may also search for “Water Polo” under all Cambridge Remind groups on the Remind app!
+- Some communications will be emailed but most team communications during the season is via the Remind app.
+
+<br>
+
+### Practice Schedule
+TBD (We are working on deep pool facilities for our practices for this year)
+- We plan to practice twice a week on Tuesday and Thursday evenings.  Times will be announced once they are set with the facilities.
+
+<br>
+
+### Fall Game Schedule
+The fall game schedule will be released once we have it from the League.
+- All games are on Saturdays and Sundays and will start in early August and run through the first two weekends of October for Division Championships
+- Typically we play 11 to 12 matches in the fall season prior to the post-season tournaments.
+
+<br>
+
+### Swim Suits
+Each athlete is responsible for acquiring their own swim suit.  Specially designed water polo suits are required by the League for all scrimmages and games. These suits are designed to provide the appropriate coverage and freedom of movement required by this rigorous sport, while minimizing the opponent’s ability to grab and manipulate players in the water.
+
+<br>
+
+### Parents
+Parents are critical to support the CWP program.  Support is needed for game scorers, fundraising, marketing, photographers, end of season banquet committee, etc.  Please indicate on the athlete registration form what area of supporting the program you can help out with.
 
 <br>
 
@@ -22,3 +48,23 @@ Unlike other sports, water polo action does not stop when the whistle blows.  Ac
 
 ### I have a lot more questions, who do I ask?
 Go to our [Contact Us](/contact) page to contact via email.
+
+<br>
+
+### Venues
+For information and directions to venues, please see [Venues](/about/venues).
+
+<br>
+
+### Other Teams, Standings, and Results
+To view other teams, current standings, and game results please visit the [Georgia High School Water Polo Site]().
+<br><br>
+<div class="row">
+<div class="col-md-3 mb-2">
+<a href="http://www.gapolo.com/standings/" class="btn btn-light active w-100 p-10" role="button" aria-pressed="true">Standings</a>
+</div>
+
+<div class="col-md-3 mb-2">
+<a href="http://www.gapolo.com/results/2018/" class="btn btn-light active w-100" role="button" aria-pressed="true">Results</a>
+</div>
+</div>

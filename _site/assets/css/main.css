@@ -107,6 +107,13 @@ pre {
     padding-right: 0;
     padding-left: 0; }
 
+.home-news-links {
+  padding: 5px;
+  margin-bottom: 10px;
+  background-color: #668AC0; }
+  .home-news-links .text-xl-left {
+    color: #212529; }
+
 footer {
   border-top: 3px solid #668AC0;
   background: linear-gradient(to bottom, #F7F9FA, #668AC0 220%); }

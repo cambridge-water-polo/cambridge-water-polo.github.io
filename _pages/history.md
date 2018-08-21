@@ -15,22 +15,38 @@ Coach Hall brought a background in water polo, having played in California since
 
 ### 2014
 In 2014, CWP fielded a full but young team coached by Lauren Hall.  The League placed CWP in Division III.  The team finished the season having lost every game but gaining valuable experience and playing time.
+<br><br>
+<div class="col-md-3 mb-2">
+<a href="/gallery/2014" class="btn btn-light active w-100 p-10" role="button" aria-pressed="true">Pictures</a>
+</div>
 
 <br>
 
 ### 2015
 The CWP program continued to grow under Coach Hall’s leadership and in 2015, CWP won its very first game!  They finished the 2015 season with three wins.  The 2015 team MVP was Jake Todd. Eddie Northen, the father of senior player and member of inaugural team, Nicky Northen, assisted in coaching this season. 
+<br><br>
+<div class="col-md-3 mb-2">
+<a href="/gallery/2015" class="btn btn-light active w-100 p-10" role="button" aria-pressed="true">Pictures</a>
+</div>
 
 <br>
 
 ### 2016
 The CWP program continued to grow as it entered its fourth year of competitive water polo.  2016 saw CWP get better and be competitive, finishing the season with two victories. Kevin McCreanor, the father of player Colleen McCreanor, assisted in coaching this season.  The 2016 team was lead by seniors Jason Yang, Lauren Lee, Cameron Chong, Darby Goodyear, and Sean McGinty.
+<br><br>
+<div class="col-md-3 mb-2">
+<a href="/gallery/2016" class="btn btn-light active w-100 p-10" role="button" aria-pressed="true">Pictures</a>
+</div>
 
 <br>
 
 ### 2017
 Enthusiasm for Cambridge Water Polo continued to grow as the 2017 CWP team had twenty-nine players.  With Coach Hall out for the season on maternity leave, Brian Lee, stepped in to coach the team.  Brian is the father of player Brandon Lee and former CWP player Lauren Lee.  Coach Lee enlisted the help of assistant Coach Ralph Pollifrone and the guidance from GHSWPA referee Taylor Cunefare who volunteered her time to help the team during practices at the Alpharetta YMCA.
 The 2017 CWP team set new records for the program finishing the season with ten wins against four losses.  The team finished the regular season tied for third place.  CWP played their best water polo of the season when the team earned second place in the DIII State Tournament.  Cambridge had three League All-Stars in 2017 – Nicholas Iline, Brandon Lee, and Callum Parker.
+<br><br>
+<div class="col-md-3 mb-2">
+<a href="/gallery/2017" class="btn btn-light active w-100 p-10" role="button" aria-pressed="true">Pictures</a>
+</div>
 
 <br>
 
