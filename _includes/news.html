@@ -2,7 +2,7 @@
 
 <h3 class="text-center mb-2">Latest News & Announcements</h3>
 
-{% for post in site.posts | limit: 5 %}
+{% for post in site.posts | limit: 3 %}
 <a href="{{ post.url }}">
 <div class="border rounded home-news-links">
 <p style="font-size: 30px" class="text-xl-left">{{ post.title }}</p>
