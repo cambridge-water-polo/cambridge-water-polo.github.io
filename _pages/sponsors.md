@@ -11,6 +11,7 @@ permalink: "/sponsors/"
 <img class="col-xs-4 mb-2 p-2" src="/assets/images/sponsors/hj-color.jpg" height="150px"/>
 <img class="col-xs-4 mb-2 p-2" src="/assets/images/sponsors/hillhouse.png" height="150px"/>
 <img class="col-xs-4 mb-2 p-2" src="/assets/images/sponsors/image-freeway.png" height="150px"/>
+<img class="col-xs-4 mb-2 p-2" src="/assets/images/sponsors/provenance.png" height="150px"/>
 
 </div>
 <p class="mb-4">Thank you to our 2017 sponsors that helped make our season's success possible!</p>
