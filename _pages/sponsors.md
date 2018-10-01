@@ -14,7 +14,7 @@ permalink: "/sponsors/"
 <img class="col-xs-4 mb-2 p-2" src="/assets/images/sponsors/provenance.png" height="150px"/>
 
 </div>
-<p class="mb-4">Thank you to our 2017 sponsors that helped make our season's success possible!</p>
+<p class="mb-4">Thank you to our 2018 sponsors that helped make our season's success possible!</p>
 
 <div class="text-center mt-4">
 
