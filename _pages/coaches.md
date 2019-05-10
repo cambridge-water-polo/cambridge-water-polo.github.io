@@ -82,6 +82,7 @@ permalink: "/about/coaches/"
 
 </div>
 <!--Grid row-->
+
 <br>
 <h4>Darren Chambers</h4>
 <h6>Assistant Coach</h6>
