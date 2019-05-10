@@ -114,6 +114,16 @@ pre {
   .home-news-links .text-xl-left {
     color: #212529; }
 
+.theme-primary {
+  color: #668AC0; }
+
+.theme-secondary {
+  color: #F7F9FA; }
+
+.theme-tertiary {
+  color: #70B8FF;
+  font-weight: 700; }
+
 footer {
   border-top: 3px solid #668AC0;
   background: linear-gradient(to bottom, #F7F9FA, #668AC0 220%); }
