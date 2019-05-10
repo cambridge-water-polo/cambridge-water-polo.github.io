@@ -48,16 +48,6 @@ Cambridge Water Polo (CWP) is open to all area High School and Middle School age
 
 <br>
 
-### [Electronic Registration](https://docs.google.com/forms/d/e/1FAIpQLSfhBDG6nbVnv1rdY3v6xntCK4BaNI1_DwGeayKvzpYfLaiFTQ/viewform)
-Click [here](https://docs.google.com/forms/d/e/1FAIpQLSfhBDG6nbVnv1rdY3v6xntCK4BaNI1_DwGeayKvzpYfLaiFTQ/viewform) for new electronic registration!!! Be sure to **complete** the concussion awareness, medical waiver, and physical below as well. The forms can be submitted to either Coach Lee or Coach Hall.
-
-<br>
-
-### Summer Clinic and Practices
-Plans are being made to have at least one water polo clinic and possibly several scrimmages in June and July.  Coach Lee is still working on these so look forward to more information once plans are confirmed.  These summer CWP events will be available to all players who have completed their American Water Polo Membership, CWP Registration forms, and paid the 2019 CWP registration fee.
-
-<br>
-
 ### CWP Registration Fees
 Registration fees are $225 for first player; $200 for each additional sibling.
 - Covers pool space rental for practice, league entry fee, CWP t-shirt, and game equipment
@@ -65,18 +55,8 @@ Registration fees are $225 for first player; $200 for each additional sibling.
 
 <br>
 
-### Alternate Form of Payment
-Please read the following **two documents** carefully as an **optional** way to pay your child's water polo fee. *Checks made out to "Cambridge High School" with "Cambridge Water Polo" on memo/subject line also accepted.*
-- Click [here](http://osp.osmsinc.com/fultonga) to go directly to OSP site!
-- [OSP Information](/assets/docs/OSP-Parent-Notification-Fulton.pdf)
-- [OSP Sign Up Instructions](/assets/docs/OSP-Parent-Purchase-Fulton.pdf)
-
-<br>
-
-### American Water Polo Membership (do not sign up for USA Water Polo by accident)
-- If you are new, you must register [here](http://www.americanwaterpolo.org/join-now)
-- If you are already a member, you must renew every year! Please do so immediately and notify me when that has happened 
-- It is VITAL that you register PRIOR TO OUR FIRST 2019 CWP PRACTICE. This covers you in case of injury or anything else while playing. We could get fined if we have kids playing that are not registered
+### [Electronic Registration](https://docs.google.com/forms/d/e/1FAIpQLSfhBDG6nbVnv1rdY3v6xntCK4BaNI1_DwGeayKvzpYfLaiFTQ/viewform)
+Click [here](https://docs.google.com/forms/d/e/1FAIpQLSfhBDG6nbVnv1rdY3v6xntCK4BaNI1_DwGeayKvzpYfLaiFTQ/viewform) for new electronic registration!!! Be sure to **complete** the concussion awareness, medical waiver, and physical below as well. The forms can be submitted to either Coach Lee or Coach Hall.
 
 <br>
 
@@ -92,6 +72,26 @@ Please sign and return to Lauren Hall or mail to Coach Lee prior to our first pr
 
 ### [Physical Form](/assets/docs/CWP-Physical-Form.pdf)
 Every CWP player has to have a valid physical on file for the 2019 season. Click [here](/assets/docs/CWP-Physical-Form.pdf) for the form.
+
+<br>
+
+### [American Water Polo Membership (do not sign up for USA Water Polo by accident)](http://www.americanwaterpolo.org/join-now)
+- If you are new, you must register [here](http://www.americanwaterpolo.org/join-now)
+- If you are already a member, you must renew every year! Please do so immediately and notify me when that has happened 
+- It is VITAL that you register PRIOR TO OUR FIRST 2019 CWP PRACTICE. This covers you in case of injury or anything else while playing. We could get fined if we have kids playing that are not registered
+
+<br>
+
+### [Alternate Form of Payment](http://osp.osmsinc.com/fultonga)
+Please read the following **two documents** carefully as an **optional** way to pay your child's water polo fee. *Checks made out to "Cambridge High School" with "Cambridge Water Polo" on memo/subject line also accepted.*
+- Click [here](http://osp.osmsinc.com/fultonga) to go directly to OSP site!
+- [OSP Information](/assets/docs/OSP-Parent-Notification-Fulton.pdf)
+- [OSP Sign Up Instructions](/assets/docs/OSP-Parent-Purchase-Fulton.pdf)
+
+<br>
+
+### Summer Clinic and Practices
+Plans are being made to have at least one water polo clinic and possibly several scrimmages in June and July.  Coach Lee is still working on these so look forward to more information once plans are confirmed.  These summer CWP events will be available to all players who have completed their American Water Polo Membership, CWP Registration forms, and paid the 2019 CWP registration fee.
 
 <br>
 
