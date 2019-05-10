@@ -33,7 +33,7 @@ permalink: "/registration/"
 </div>
 
 <div class="col-md-3">
-<a href="http://osp.osmsinc.com/fultonga" class="btn btn-light active w-100" role="button" aria-pressed="true">OSP Payment</a>
+<a href="http://osp.osmsinc.com/fultonga" class="btn btn-dark active w-100" role="button" aria-pressed="true">OSP Payment (Alternative)</a>
 </div>
 </div>
 
