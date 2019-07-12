@@ -52,6 +52,7 @@ The 2017 CWP team set new records for the program finishing the season with ten 
 ### 2018
 CWP expanded to two teams in 2018 with a record thirty-four players.  CWP fielded a Division 2 team and a Division 3 team.  The Cambridge D2 team tied for seventh place in a divsion of fourteen teams.  The Cambridge D3 team tied for eighth place in a division of 10 teams.  Coach Brian Lee and a returning Coach Lauren Hall were joined by coaches Darren Chambers and Rad Mignerey. 
 Cambridge had two League All-Stars in 2018 – Nicholas Iline and Brandon Lee.
+
 <br>
 
 ### CWP
