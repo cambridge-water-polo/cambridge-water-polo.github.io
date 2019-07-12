@@ -27,12 +27,12 @@ permalink: "/sponsors/"
 
 <div class="text-center mt-4">
 
-### [Become a Cambridge Water Polo Sponsor!!!](/assets/docs/CWP-Sponsor-Application-2018.pdf)
+### [Become a Cambridge Water Polo Sponsor!!!](/assets/docs/CWP Sponsor Application 2019.pdf)
 
 </div>
 
 <div class="text-center mb-4">
 
-<embed class="pdf-form" src="/assets/docs/CWP-Sponsor-Application-2018.pdf"/>
+<embed class="pdf-form" src="/assets/docs/CWP Sponsor Application 2019.pdf"/>
 
 </div>
