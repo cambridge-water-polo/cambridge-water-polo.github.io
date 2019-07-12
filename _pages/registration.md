@@ -39,7 +39,7 @@ permalink: "/registration/"
 
 <hr>
 
-### Welcome to Cambridge’s eigth season of water polo! 
+### Welcome to Cambridge’s eighth season of water polo! 
 Here are the details you need to know for the upcoming 2019 Fall season.
 
 <br>
