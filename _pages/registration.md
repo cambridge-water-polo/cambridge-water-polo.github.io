@@ -39,19 +39,23 @@ permalink: "/registration/"
 
 <hr>
 
-### Welcome to Cambridge’s seventh season of water polo! 
-Here are the details you need to know for the upcoming season.
+### Welcome to Cambridge’s eigth season of water polo! 
+Here are the details you need to know for the upcoming 2019 Fall season.
 
 <br>
 
-Cambridge Water Polo (CWP) is open to all area High School and Middle School aged players.  We are planning to have two teams this year.  There will be one Division 2 (D2) team and one Division 3 (D3) team.  Both teams will be co-ed as we have done since the inception of CWP.  The CWP coaches will determine the rosters for the D2 and D3 teams after tryouts and CWP practices.
+Cambridge Water Polo (CWP) is open to all area High School and Middle School aged players.  For the 2019 fall season, we are planning to have three teams.  There will be a Division 1 (D1-B) team playing on the B tier level, a Division 3 (D3) team in the D3 North division, and a Women's Division (DW-2) team playing on the tier 2 level.  The league has split both the Division 1 and Women's Division into two tiers.  The D1-B and DW-2 Cambridge teams will be in the second tier to facilitate skill development and more equal competition.  
+
+<br>
+
+The league is emphasizing growing the Women's Division this fall with the introduction of the two tiers.  Women players will have a women's team first commitment if they want to play on multiple Cambridge teams when there is a game scheduling conflict.  The D3 level team is to promote the development of new players into the Cambridge Water Polo program.  The D3 level is an excellent entry point for Middle School and first year High School players to learn the game and build their water polo skills.  There will be 13 or 14 regular season games for each team, depending on the division scheduling.
 
 <br>
 
 ### CWP Registration Fees
-Registration fees are $225 for first player; $200 for each additional sibling.
+Registration fees are $250 for first player; $215 for each additional sibling.
 - Covers pool space rental for practice, league entry fee, CWP t-shirt, and game equipment
-- Make checks payable to Cambridge High School (please put water polo on subject line)
+- Registration fees can be paid online through the Fulton County Schools Online School Payments (see Online Payment section below) or by check.  Make checks payable to Cambridge High School (please put water polo on subject line)
 
 <br>
 
@@ -76,13 +80,13 @@ Every CWP player has to have a valid physical on file for the 2019 season. Click
 <br>
 
 ### [American Water Polo Membership (do not sign up for USA Water Polo by accident)](http://www.americanwaterpolo.org/join-now)
-- If you are new, you must register [here](http://www.americanwaterpolo.org/join-now)
+- If you are new, you must be a registered AWP member.  Register [here](http://www.americanwaterpolo.org/join-now) with AWP.
 - If you are already a member, you must renew every year! Please do so immediately and notify me when that has happened 
 - It is VITAL that you register PRIOR TO OUR FIRST 2019 CWP PRACTICE. This covers you in case of injury or anything else while playing. We could get fined if we have kids playing that are not registered
 
 <br>
 
-### [Alternate Form of Payment](http://osp.osmsinc.com/fultonga)
+### [Online Form of Payment](http://osp.osmsinc.com/fultonga)
 Please read the following **two documents** carefully as an **optional** way to pay your child's water polo fee. *Checks made out to "Cambridge High School" with "Cambridge Water Polo" on memo/subject line also accepted.*
 - Click [here](http://osp.osmsinc.com/fultonga) to go directly to OSP site!
 - [OSP Information](/assets/docs/OSP-Parent-Notification-Fulton.pdf)
@@ -90,8 +94,8 @@ Please read the following **two documents** carefully as an **optional** way to 
 
 <br>
 
-### Summer Clinic and Practices
-Plans are being made to have at least one water polo clinic and possibly several scrimmages in June and July.  Coach Lee is still working on these so look forward to more information once plans are confirmed.  These summer CWP events will be available to all players who have completed their American Water Polo Membership, CWP Registration forms, and paid the 2019 CWP registration fee.
+### Preseason Practices
+Plans are being made to have practices in July and early August before the season begins.  Coach Lee is still working on these so look forward to more information once plans are confirmed.  
 
 <br>
 
@@ -105,14 +109,14 @@ Please sign up for our team Remind101 messages! This is especially important for
 
 ### Practice Schedule
 TBD (We are working on deep pool facilities for our practices for this year)
-- We plan to practice twice a week on Tuesday and Thursday evenings.  Times will be announced once they are set with the facilities.
+- We plan to practice twice a week.  Likely on Monday and Thursday evenings.  Times will be announced once they are set with the Cumming Aquatic Center facilities.
 
 <br>
 
 ### Fall Game Schedule
 The fall game schedule will be released once we have it from the League.
 - All games are on Saturdays and Sundays and will start in early August and run through the first two weekends of October for Division Championships
-- Typically we play 11 to 12 matches in the fall season prior to the post-season tournaments.
+- Typically we play 13 to 14 matches in the fall season prior to the post-season tournaments.
 
 <br>
 
@@ -134,5 +138,5 @@ Parents are critical to support the CWP program.  Support is needed for game sco
 
 <br>
 
-If your parent is interested in helping out with running the table for our team, please let me know so we can get you trained.  It is easy and guarantees a center pool view of the game!  It is a League requirement that there be two parents for each game as table workers (scorers).  
-- Table Worker Clinics are offered by the League in August.
+If you are interested in helping out with running the table for our team, please let me know so we can get you trained.  It is easy and guarantees a center pool view of the game!  It is a League requirement that there be two parents for each game as table workers (scorers).  
+- Table Worker Clinics are offered by the League in August plus we have some very experienced Cambridge parents who can guide you.
