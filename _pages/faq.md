@@ -14,15 +14,15 @@ Please sign up for our team Remind101 messages! This is especially important for
 <br>
 
 ### Practice Schedule
-TBD (We are working on deep pool facilities for our practices for this year)
-- We plan to practice twice a week on Tuesday and Thursday evenings.  Times will be announced once they are set with the facilities.
+Cumming Aquatic Center (The CAC worked out very well for the practices last year)
+- We plan to practice twice a week on Monday and Thursday evenings.  Times will be announced once they are set with the facilities.
 
 <br>
 
 ### Fall Game Schedule
 The fall game schedule will be released once we have it from the League.
 - All games are on Saturdays and Sundays and will start in early August and run through the first two weekends of October for Division Championships
-- Typically we play 11 to 12 matches in the fall season prior to the post-season tournaments.
+- Typically we play 11 to 12 matches in the fall season prior to the post-season tournaments.  There may be 13 to 14 matches this year as the season is starting earlier.
 
 <br>
 
@@ -32,7 +32,7 @@ Each athlete is responsible for acquiring their own swim suit.  Specially design
 <br>
 
 ### Parents
-Parents are critical to support the CWP program.  Support is needed for game scorers, fundraising, marketing, photographers, end of season banquet committee, etc.  Please indicate on the athlete registration form what area of supporting the program you can help out with.
+Parents are critical to support the CWP program.  Support is needed for assistant coaches, game scorers, fundraising, marketing, photographers, end of season banquet committee, etc.  Please indicate on the athlete registration form what area of supporting the program you can help out with.  If everyone helps out, it makes it a whole lot easier for all.  Thank you.
 
 <br>
 
