@@ -14,11 +14,11 @@ The 2019 Water Polo season will soon be upon us.  The first league games start t
 
 <br>
 
-The Cambridge Water Polo program continues to grow.  This season we will have three CWP teams, a D1, D3 and Women's team.  The league is working to more equalize the competition so they introduced two tiers or levels in the Division 1 (D1) and Women's Division (DW).  Divsion 3 (D3) will be for players new to water polo and middle schoolers.  D3 is critical for the development of players and the continued success of the CWP program.  Please invite your friends to join CWP. 
+The Cambridge Water Polo program continues to grow.  This season we will have three CWP teams, a D1, D3 and Women's team.  The league is working to equalize the competition and better develop player skills so they introduced two tiers or levels in the Division 1 (D1) and Women's Division (DW).  Divsion 3 (D3) will be for players new to water polo and middle schoolers.  D3 is critical for the development of players and the continued success of the CWP program.  Please invite your friends to join CWP. 
 
 <br>
 
-Lauren Hall and I have been in communication working on the logistics and planning for the CWP 2019 season.  We will be practicing again at the Cumming Aquatic Center (CAC).  Most likely on Monday and Thursday nights.
+Lauren Hall and I have been in communication and are working on the logistics and planning for the CWP 2019 season.  CWP will be practicing again at the Cumming Aquatic Center (CAC).  Most likely on Monday and Thursday nights.
 
 <br>
 
@@ -29,7 +29,7 @@ Please read the FAQ page on the CWP website as it contains alot of key informati
 ### FAQ
 **How do I register for CWP 2019?**
 
-* Go to the Registration page on the CWP website.  Follow the directions for the electronic registration.  All parts of the form including the medical waiver and concussion awareness need to be completed and signed.  Payment can be completed using the Fulton County Schools Online Payment process.  The link to the online payment system is on the Registration webpage.  Alternatively, checks can be given to Coach Hall at Cambridge High School or mailed to Coach Lee.
+* Go to the Registration page on the CWP website.  Follow the directions for the electronic registration.  All parts of the form including the medical waiver and concussion awareness need to be completed and signed.  Payment can be completed using the Fulton County Schools Online Payment process.  The link to the online payment system is on the Registration webpage.  That is the preferred way to make your CWP payment.  Alternatively, checks can be given to Coach Hall at Cambridge High School or given to Coach Lee at the practices.
 
 <br>
 
