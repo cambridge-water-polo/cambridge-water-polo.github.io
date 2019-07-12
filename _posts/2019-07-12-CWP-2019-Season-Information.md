@@ -10,11 +10,11 @@ author: Brian Lee
 
 <br>
 
-The 2019 Water Polo season will soon be upon us.  The first league games start the weekend of 10th/11th of August!
+The 2019 Water Polo season will soon be upon us.  The first league games start the weekend of the 10th-11th August!
 
 <br>
 
-The Cambridge Water Polo program continues to grow.  This season we will have three CWP teams, a D1, D3 and Women's team.  The league is working to make more equalize the competition so they introduced two tiers or levels in the Division 1 (D1) and Women's Division (DW).  Divsion 3 (D3) will be for players new to water polo and middle schoolers.  D3 is critical for the development of players and the continued success of the CWP program.  Please invite your friends to join CWP. 
+The Cambridge Water Polo program continues to grow.  This season we will have three CWP teams, a D1, D3 and Women's team.  The league is working to more equalize the competition so they introduced two tiers or levels in the Division 1 (D1) and Women's Division (DW).  Divsion 3 (D3) will be for players new to water polo and middle schoolers.  D3 is critical for the development of players and the continued success of the CWP program.  Please invite your friends to join CWP. 
 
 <br>
 
@@ -22,7 +22,7 @@ Lauren Hall and I have been in communication working on the logistics and planni
 
 <br>
 
-I wanted to pass along some information on the Cambridge Water Polo as many of you have asked about the plans for this this upcoming season.  Here are answers to some frequently asked questions.
+Please read the FAQ page on the CWP website as it contains alot of key information for CWP and GHSWPA competitions.  Additionally, I wanted to pass along some information on the Cambridge Water Polo as many of you have asked about the plans for this this upcoming season.
 
 <br>
 
