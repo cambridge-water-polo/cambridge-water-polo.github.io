@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2019 Season Information
-date: 2019-07-12 12:00
+date: 2019-08-20 12:00
 category: Announcements
 author: Brian Lee
 ---
@@ -10,7 +10,7 @@ author: Brian Lee
 
 <br>
 
-The 2019 Water Polo season will soon be upon us.  The first league games start the weekend of the 10th-11th August!
+The 2019 Water Polo season is here.
 
 <br>
 
@@ -47,9 +47,12 @@ Please read the FAQ page on the CWP website as it contains alot of key informati
 
 **Do we know the fall game and practice schedules?**
 
-* The league has completed the scheduling process.  The games are posted on the GHSWPA website (www.gapolo.com/results/2019/).  At the top, there is a search box. Type CAMBRIDGE in to the box and it will filter down to just our games.  Practice times are posted on the Cambridge Water Polo website and have been emailed out.
+* The league has completed the scheduling process.  The games are posted on the GHSWPA website (www.gapolo.com/results/2019/).  THe GHSWPA website is available from the link on the CWP website.  From the GHSWPA website results 2019 page at the top, there is a search box. Type CAMBRIDGE in to the box and it will filter down to just our games.  Practice times are posted on the Cambridge Water Polo website and have been emailed out.
+
 <br>
+
 I'm looking forward to another great season for CWP!
+
 <br>
 Coach Lee
 
