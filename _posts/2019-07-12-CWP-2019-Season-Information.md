@@ -14,11 +14,11 @@ The 2019 Water Polo season will soon be upon us.  The first league games start t
 
 <br>
 
-The Cambridge Water Polo program continues to grow.  This season we will have three CWP teams, a D1, D3 and Women's team.  The league is working to equalize the competition and better develop player skills so they introduced two tiers or levels in the Division 1 (D1) and Women's Division (DW).  Divsion 3 (D3) will be for players new to water polo and middle schoolers.  D3 is critical for the development of players and the continued success of the CWP program.  Please invite your friends to join CWP. 
+The Cambridge Water Polo program continues to grow.  This season we have two CWP teams, a D1 and a Women's team.  The league is working to equalize the competition and better develop player skills so they introduced two tiers or levels in the Division 1 (D1) and Women's Division (DW).  Please invite your friends to join CWP. 
 
 <br>
 
-Lauren Hall and I have been in communication and are working on the logistics and planning for the CWP 2019 season.  CWP will be practicing again at the Cumming Aquatic Center (CAC).  Most likely on Monday and Thursday nights.
+Lauren Hall and I have been in communication and are working on the logistics and planning for the CWP 2019 season.  CWP will be practicing again at the Cumming Aquatic Center (CAC) on Monday and Thursday nights.
 
 <br>
 
@@ -35,7 +35,7 @@ Please read the FAQ page on the CWP website as it contains alot of key informati
 
 **When is CWP 2019 Season Registration Due?**
 
-* By August 8th.  All players will need to have completed the registration forms before being permitted to participate in any GHSWPA sanctioned games.
+* By September 3rd.  All players will need to have completed the registration forms before being permitted to participate in any GHSWPA sanctioned games.
 
 <br>
 
@@ -47,8 +47,7 @@ Please read the FAQ page on the CWP website as it contains alot of key informati
 
 **Do we know the fall game and practice schedule?**
 
-* The league has completed the scheduling process.  The games will be posted soon on the CWP website Calendar as well as emailed out.  Practice times and location for the fall are being worked out.  We’ll announce the schedules when we have them.
-
+* The league has completed the scheduling process.  The games are posted on the GHSWPA website (www.gapolo.com).  Practice times are posted on the Cambridge Water Polo website and have been emailed out.
 <br>
 I'm looking forward to another great season for CWP!
 <br>
