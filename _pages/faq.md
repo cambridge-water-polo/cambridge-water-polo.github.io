@@ -15,12 +15,12 @@ Please sign up for our team Remind101 messages! This is especially important for
 
 ### Practice Schedule
 Cumming Aquatic Center (The CAC worked out very well for the practices last year)
-- We plan to practice twice a week on Monday and Thursday evenings.  Times will be announced once they are set with the facilities.
+- We practice twice a week on Monday and Thursday evenings at the Cumming Aquatic Center.  Times are posted on the Cambridge Water Polo website Calendar.
 
 <br>
 
 ### Fall Game Schedule
-The fall game schedule will be released once we have it from the League.
+The fall game schedule is posted on the GHSWPA website (http://gapolo.com/results/2019/).  At the top of the full game schedule post is a search box.  Type CAMBRIDGE in the box and it will filter down to just our games.
 - All games are on Saturdays and Sundays and will start in early August and run through the first two weekends of October for Division Championships
 - Typically we play 11 to 12 matches in the fall season prior to the post-season tournaments.  There may be 13 to 14 matches this year as the season is starting earlier.
 
@@ -65,6 +65,6 @@ To view other teams, current standings, and game results please visit the [Georg
 </div>
 
 <div class="col-md-3 mb-2">
-<a href="http://www.gapolo.com/results/2018/" class="btn btn-light active w-100" role="button" aria-pressed="true">Results</a>
+<a href="http://www.gapolo.com/results/2019/" class="btn btn-light active w-100" role="button" aria-pressed="true">Results</a>
 </div>
 </div>
