@@ -45,9 +45,9 @@ Please read the FAQ page on the CWP website as it contains alot of key informati
 
 <br>
 
-**Do we know the fall game and practice schedule?**
+**Do we know the fall game and practice schedules?**
 
-* The league has completed the scheduling process.  The games are posted on the GHSWPA website (www.gapolo.com).  Practice times are posted on the Cambridge Water Polo website and have been emailed out.
+* The league has completed the scheduling process.  The games are posted on the GHSWPA website (www.gapolo.com/results/2019/).  At the top, there is a search box. Type CAMBRIDGE in to the box and it will filter down to just our games.  Practice times are posted on the Cambridge Water Polo website and have been emailed out.
 <br>
 I'm looking forward to another great season for CWP!
 <br>
