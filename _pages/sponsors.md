@@ -5,15 +5,7 @@ date: 2018-03-20
 permalink: "/sponsors/"
 ---
 
-<!-- <div class="row">
-    
-<img class="col-xs-4 mb-2 p-2" src="/assets/images/sponsors/el-don-color.jpg" height="150px"/>
-<img class="col-xs-4 mb-2 p-2" src="/assets/images/sponsors/hj-color.jpg" height="150px"/>
-<img class="col-xs-4 mb-2 p-2" src="/assets/images/sponsors/hillhouse.png" height="150px"/>
-<img class="col-xs-4 mb-2 p-2" src="/assets/images/sponsors/image-freeway.png" height="150px"/>
-<img class="col-xs-4 mb-2 p-2" src="/assets/images/sponsors/provenance.png" height="150px"/>
 
-</div> -->
 <div class="row rounded m-2 text-center" style="background-color: rgba(255, 255, 255, 0.8)">
     
 <!-- <img class="col-xs-2 mb-2 p-2" src="/assets/images/sponsors/el-don-color-edited.png" height="150px"/> -->
