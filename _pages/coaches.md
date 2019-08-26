@@ -91,4 +91,3 @@ permalink: "/about/coaches/"
 <h6>Assistant Coach</h6>
 
 </section>
-            
