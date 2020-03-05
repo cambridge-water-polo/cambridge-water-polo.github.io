@@ -9,7 +9,12 @@ Please direction questions to [tlee753](https://tlee753.com/contact)
 
 ---
 
-# Developer Section
+## Developer Section
+
+### Build Tools
+- jekyll
+- sass
+- bootstrap
 
 ### Pages
 1. Landing page
