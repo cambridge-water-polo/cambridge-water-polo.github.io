@@ -84,10 +84,5 @@ permalink: "/about/coaches/"
 <!--Grid row-->
 
 <br>
-<h4>Darren Chambers</h4>
-<h6>Assistant Coach</h6>
-<br>
-<h4>Rad Mignerey</h4>
-<h6>Assistant Coach</h6>
 
 </section>
