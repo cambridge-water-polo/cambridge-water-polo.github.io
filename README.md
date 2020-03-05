@@ -1,11 +1,11 @@
 # Cambridge Water Polo Website
-Welcome to the repository for the [Cambridge Water Polo Website](cambridgewaterpolo.com)!
+Welcome to the repository for the [Cambridge Water Polo Website](http://cambridgewaterpolo.com)!
 
 ### Posting
-To post on the website please follow the [post guide](cambridgewaterpolo.com/posts)
+To post on the website please follow the [post guide](http://cambridgewaterpolo.com/posts)
 
 ### Questions
-Please direction questions to [tlee753](tlee753.com/contact)
+Please direction questions to [tlee753](https://tlee753.com/contact)
 
 ---
 
