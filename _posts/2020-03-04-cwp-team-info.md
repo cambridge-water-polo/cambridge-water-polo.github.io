@@ -8,9 +8,6 @@ author: Brian Lee
 
 ### Come Join Us to Play the Greatest Game!
 <br>
-Cambridge Water Polo Players and Families,
-
-<br>
 Interested in trying something new and fun?  Interested in staying in shape and getting in the water before swim season?
 Cambridge Water Polo is looking for middle and high school students to try out the greatest sport - Water Polo!
 
@@ -26,8 +23,7 @@ CWP needs our returning players to help RECRUIT, RECRUIT, RECRUIT!
 
 <br>
 CWP is open to players from the North Fulton area public and private
-middle and high schools.  A mailer has been sent to the swim coaches in the area as well as for the Cambridge swim team members.  
-The best way to recruit players is for current players to invite their friends and siblings. 
+middle and high schools.  A mailer has been sent to the swim coaches in the area as well as for the Cambridge swim team members.  The best way to recruit players is for current players to invite their friends and siblings. 
 
 <br>
 If you missed the March 5th meeting, it is definitely not too late!  Contact Coach Hall at halllauren@fultonschools.org or join REMIND (instructions on the FAQ) to be able to ask questions to the CWP community.
