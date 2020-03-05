@@ -15,6 +15,7 @@ Please direction questions to [tlee753](https://tlee753.com/contact)
 - jekyll
 - sass
 - bootstrap
+- jquery
 
 ### Pages
 1. Landing page
