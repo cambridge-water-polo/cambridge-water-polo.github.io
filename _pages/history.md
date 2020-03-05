@@ -55,6 +55,11 @@ Cambridge had two League All-Stars in 2018 – Nicholas Iline and Brandon Lee.
 
 <br>
 
+### 2019
+CWP fielded two teams in 2019.  A division 1 men's team and a women's division team.  The Cambridge D1 team had a 3-12 overall record and placed in eleventh in a divsion of twleve teams.  The Cambridge women's team started out the season short of players so they had to forfeit some games but came on strong at the end of the season to finish with a 3-12 record.  The men's team was coached by Brian Lee.  The women's team was coached by Lauren Hall. 
+
+<br>
+
 ### CWP
 From the beginning and continuing every year, CWP has followed the objective set by founding Coach Lauren Hall.
 
