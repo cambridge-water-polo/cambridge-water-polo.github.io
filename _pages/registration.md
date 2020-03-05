@@ -82,7 +82,7 @@ Every CWP player has to have a valid physical on file for the 2019 season. Click
 ### [American Water Polo Membership (do not sign up for USA Water Polo by accident)](http://www.americanwaterpolo.org/join-now)
 - If you are new, you must be a registered AWP member.  Register [here](http://www.americanwaterpolo.org/join-now) with AWP.
 - If you are already a member, you must renew every year! Please do so immediately and notify me when that has happened 
-- It is VITAL that you register PRIOR TO OUR FIRST 2019 CWP PRACTICE. This covers you in case of injury or anything else while playing. We could get fined if we have kids playing that are not registered
+- It is VITAL that you register PRIOR TO OUR FIRST 2020 CWP PRACTICE. This covers you in case of injury or anything else while playing. We could get fined if we have kids playing that are not registered
 
 <br>
 
