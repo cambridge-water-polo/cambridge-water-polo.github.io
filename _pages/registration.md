@@ -53,7 +53,7 @@ The league is emphasizing growing the Women's Division again this fall.  Women p
 <br>
 
 ### CWP Registration Fees
-Registration fees are $250 for first player; $215 for each additional sibling.
+Registration fees are $250 for first player; $225 for each additional sibling.
 - Covers pool space rental for practice, league entry fee, CWP t-shirt, and game equipment
 - Registration fees can be paid online through the Fulton County Schools Online School Payments (see Online Payment section below) or by check.  Make checks payable to Cambridge High School (please put water polo on subject line)
 
